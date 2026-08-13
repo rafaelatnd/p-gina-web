@@ -1,0 +1,27 @@
+        header{
+            background-color: rgb(250, 232, 209);
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 5px solid rgb(228, 206, 182);
+
+        }
+
+        main{
+            background-color: #FFFFFF;
+            color: rgb(53, 46, 37);
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            
+            article{
+                display: flex;
+                gap: 16px;
+                margin-bottom: 20px;
+            }
+        }
+        img{
+            width: 80px;
+            height: 80px;
+        }
